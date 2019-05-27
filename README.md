@@ -1,4 +1,4 @@
-<h1 align="center">OTBR Server Global - Free Version</h1>
+<h1 align="center">OTBR Server Global TESTE - Free Version</h1>
  
 <table>
     <caption>Read this documentation in the following languages</caption>
